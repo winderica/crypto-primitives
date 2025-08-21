@@ -43,7 +43,7 @@ debug = true
 [patch.crates-io]
 ark-relations = { git = "https://github.com/arkworks-rs/snark" }
 ark-snark = { git = "https://github.com/arkworks-rs/snark" }
-ark-r1cs-std = { git = "https://github.com/arkworks-rs/r1cs-std" }
+ark-r1cs-std = { git = "https://github.com/flyingnobita/r1cs-std_yelhousni", rev = "b4bab0c" }
 # ark-relations = { path = "../snark/relations", default-features = true }
 # ark-r1cs-std = { path = "../r1cs-std", default-features = true }
 
